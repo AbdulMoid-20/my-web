@@ -7,7 +7,6 @@ body{
     background: radial-gradient(circle,#f4f4f4,#003049);
     /* background: linear-gradient( rgba(0, 0, 0, 0.929), rgb(12, 134, 156),rgba(0, 0, 0, 0.929) );  */
     background-repeat: no-repeat;
-    background-attachment: fixed;
     color: #1C1C1C;
     /* font-family: 'Open Sans', sans-serif; */
 
@@ -230,4 +229,5 @@ margin-bottom: 10px;
 footer{
     color: #1c1c1caf;
     text-align: center;
+
 }
